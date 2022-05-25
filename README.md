@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Microsoft Cloud Solution Architect, helping customers with application development for Azure. I'm based in the UK.
+I'm an Enterprise Solutions Engineer at GitHub, helping customers with adopting and using GitHub. I'm based in the UK.
 
-📫 Best ways to reach me: [Email](giles.davies@microsoft.com) or [LinkedIn](https://www.linkedin.com/in/gilesdavies/)
+📫 Best ways to reach me: [Email](gidavies@github.com) or [LinkedIn](https://www.linkedin.com/in/gilesdavies/)
 
 [![Giles’ GitHub stats](https://github-readme-stats.vercel.app/api?username=gidavies)](https://github.com/gidavies)
 
