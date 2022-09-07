@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 I'm an Enterprise Solutions Engineer at GitHub, helping customers in North EMEA with adopting and using GitHub. I'm based in the UK.
 
