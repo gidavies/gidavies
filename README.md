@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm an Enterprise Solutions Engineer at GitHub, helping customers in North EMEA with adopting and using GitHub. I'm based in the UK.
+I'm an Enterprise Solutions Engineer at GitHub, based in the UK, working in the North EMEA team and helping customers in the Nordics with adopting and using GitHub.
 
 📫 Best ways to reach me: [Email](gidavies@github.com) or [LinkedIn](https://www.linkedin.com/in/gilesdavies/)
 
