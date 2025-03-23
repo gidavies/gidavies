@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-I'm an Enterprise Solutions Engineer at GitHub, based in the UK, working in the North EMEA team and helping customers in the Nordics with adopting and using GitHub.
+Ex Hubber, now taking it easy!
 
-📫 Best ways to reach me: [Email](gidavies@github.com) or [LinkedIn](https://www.linkedin.com/in/gilesdavies/)
+📫 [LinkedIn](https://www.linkedin.com/in/gilesdavies/)
 
 [![Giles’ GitHub stats](https://github-readme-stats.vercel.app/api?username=gidavies)](https://github.com/gidavies)
 
